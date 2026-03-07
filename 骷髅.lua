@@ -1,6 +1,6 @@
 local whitelist = {
     ["ylw0000"] = true, 
-    ["ylw101010"] = true,  
+    ["ylw10101"] = true,  
     ["0"] = true, 
     ["0"] = true,  
     ["0"] = true, 
